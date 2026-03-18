@@ -16,7 +16,7 @@ I want to list software/libs I use in my Hyprland installation, a todo list, a l
 - [ ] add a snapshot tool (if the system is bugged for my work, I'll have a backup!)
   - [ ] learn and document it
 - [ ] add Gimp (or equivalent)
-- [ ] add spotify
+- [ ] add spotify-player (rust based using spotify api)
 ## Apps used
 * [hyprland](https://wiki.hypr.land/) = Desktop Manager
 * hyprpaper
