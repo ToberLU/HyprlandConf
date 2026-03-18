@@ -13,6 +13,8 @@ I want to list software/libs I use in my Hyprland installation, a todo list, a l
 - [ ] find an app to unlock account with your camera (Windows Hello like)
 - [ ] add spotify in the status bar if possible
 - [ ] add bluetooth to status bar
+- [ ] add a snapshot tool (if the system is bugged for my work, I'll have a backup!
+  - [ ] learn and document it
 ## Apps used
 * [hyprland](https://wiki.hypr.land/) = Desktop Manager
 * hyprpaper
