@@ -8,6 +8,9 @@ I want to list software/libs I use in my Hyprland installation, a todo list, a l
 - [x] finish [Hyprland tutorial for newbs](https://www.youtube.com/playlist?list=PLsz00TDipIfeDrFeSA56W1wPrYYg_Kd-b)
 - [ ] configure nvim ([Neovim for Newbs](https://www.youtube.com/playlist?list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn))
 - [x] find a tutorial to learn nvim
+- [ ] run :Tutor
+- [ ] play [VIM Adventures](https://vim-adventures.com/)
+- [ ] play [VIMHero](https://www.vim-hero.com/)
 - [ ] Login page minimalist
 - [ ] a button to be able to change from standard CachyOS login page to my minimalist one
 - [ ] find an app to unlock account with your camera (Windows Hello like)
